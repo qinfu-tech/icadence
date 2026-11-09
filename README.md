@@ -22,38 +22,57 @@ Long coding sessions, study blocks, and busy afternoons can turn into hours at a
 
 For interval routines, completing a break starts the next work interval from your completion time. Your desk break becomes part of the rhythm, with a record of what actually happened.
 
-## See your rhythm
+## Screenshots and a quick demo
+
+These are direct iPhone screenshots. Some screens show Pro features, and the interface can vary by iOS version and settings.
 
 <p align="center">
-  <img src="assets/screenshots/en/today.png" width="30%" alt="iCadence upcoming break countdown and daily reminder timeline">
-  <img src="assets/screenshots/en/walking.png" width="30%" alt="Walking verification showing 23 of 30 seconds of movement">
-  <img src="assets/screenshots/en/routine.png" width="30%" alt="Routine editor with interval, hourly minute, and fixed time options">
+  <img src="assets/screenshots/en/today.jpg" width="30%" alt="Reminder timeline">
+  <img src="assets/screenshots/en/routine.jpg" width="30%" alt="Routine editor">
+  <img src="assets/screenshots/en/routines.jpg" width="30%" alt="Routine list">
 </p>
 
-<p align="center"><sub>Plan your day · Take a verified walking break · Set your own routine</sub></p>
+<p align="center"><sub>Reminder timeline · Routine editor · Routine list</sub></p>
 
-Screenshots use existing iCadence promotional artwork. Some screens show Pro features; appearance may vary by version and settings.
+<p align="center">
+  <img src="assets/screenshots/en/walking.jpg" width="30%" alt="Walking verification">
+  <img src="assets/screenshots/en/history.jpg" width="30%" alt="Break history">
+  <img src="assets/screenshots/en/alarm.jpg" width="30%" alt="System alarm">
+</p>
 
-## Built around the break
+<p align="center"><sub>Walking verification · Break history · System alarm</sub></p>
 
-| Capability | What it means for your day |
+[Watch the English walkthrough (MP4)](https://raw.githubusercontent.com/qinfu-tech/icadence/main/assets/videos/routines-en.mp4): browse routines, change a routine's settings, and check History. The recording is from an earlier build, so some controls may have moved.
+
+## What iCadence can do
+
+### 1. Schedule breaks around your work
+
+- **Work intervals:** Work for 45 minutes, for example, then take a break. Completing it starts the next countdown from that moment. If you miss the break, the next interval starts after the action window closes.
+- **Selected minutes each hour:** Get reminders at :25 and :55, for example.
+- **Fixed daily times:** Set reminders for times such as 10:30 a.m. and 3:30 p.m. Hourly and fixed-time routines follow the clock.
+- Choose active days and working hours, such as weekdays from 9 a.m. to 6 p.m. See your next break and upcoming reminders, and turn individual routines on or off.
+
+### 2. Take the break you planned
+
+Open the activity screen from the reminder and follow the activity you chose:
+
+| Mode | What you can do |
 | --- | --- |
-| **Flexible routines** | Choose intervals, specific minutes each hour, or fixed daily times, with selected days and working time windows. |
-| **Walking verification** | Carry your iPhone and use motion sensors to confirm a short walk. Keep the activity screen open while verifying. |
-| **On-device pose detection · Pro** | Use the camera to help confirm standing, stretching, squats, jumping jacks, or push-ups. Frames are processed on device and are not saved or uploaded. |
-| **Guided pauses** | Use timed activities for eye breaks, drinking water, and breathing. These are guided timers, not sensor verification. |
-| **Quiet Periods** | Pause interruptions across routines for a meeting or a break, using quick durations, custom times, or repeating periods. |
-| **Glanceable widgets** | View upcoming breaks, actions, and Quiet Period status on Home Screen and Lock Screen widgets. |
-| **Stronger reminders · Pro** | Choose an AlarmKit alarm on iOS 26 or later, where supported and permitted. Ordinary notifications remain available. |
-| **A useful history · Pro** | Review verified, manually confirmed, and missed breaks, with history and trends. |
+| **Walking verification** | Carry your iPhone, allow Motion & Fitness access, and keep the activity screen open. Motion sensors detect walking and the app shows your progress. |
+| **Guided timers** | Set aside time for an eye break, water, or breathing. A timer doesn't verify that you did the activity. |
+| **Camera-assisted pose detection · Pro** | Verify supported standing, stretching, squats, jumping jacks, and push-ups. Set a duration or repetition target, depending on the activity. Camera frames are processed on device and are never saved or uploaded. |
 
-## From a notification to a completed break
+### 3. Manage interruptions and see what's next
 
-1. **Set a routine.** Choose when you work, when to be reminded, and a short activity.
-2. **Take the break.** Open the activity from your reminder and follow its verification or timer.
-3. **Begin again.** Complete an interval break to start the next work countdown from that moment.
+- **Standard notifications** are scheduled through iOS and do not require the app to stay open. Delivery depends on system permissions and settings such as Focus.
+- **Stronger reminders (Pro)** use AlarmKit on supported devices running iOS 26 or later, with permission. Open the activity from the system alarm.
+- **Quiet Periods** pause all routines on your device for a quick duration, a custom time window, or on a repeating schedule. Interval routines restart their countdown when the quiet period ends; missed reminders aren't sent in a batch.
+- **Home Screen and Lock Screen widgets** show the next break, current activity, or Quiet Period status.
 
-Dismissing a notification does not count as a verified break. Sensor verification, guided timers, and manual confirmation have different meanings in your history. That distinction is central to iCadence.
+### 4. Review your breaks · Pro
+
+Check your history and trends by week, month, year, or all time, and see completion by routine. History distinguishes sensor-verified, manually confirmed, and missed breaks. Dismissing a notification doesn't count as verification. Optional iCloud sync shares supported routines and history across devices signed in to the same iCloud account. Raw camera frames, raw motion data, and Quiet Period settings aren't synced.
 
 ## Start free, grow with Pro
 
