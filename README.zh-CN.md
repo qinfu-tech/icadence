@@ -22,27 +22,43 @@
 
 使用间隔计划时，完成休息会从完成时刻重新开始下一轮工作计时。休息成为节奏的一部分，也留下真实的完成记录。
 
-## 实际界面与操作演示
+## 实拍界面与视频
 
-以下为 iPhone 系统截图。部分画面展示 Pro 功能，界面可能随 iOS 版本和设置而不同。
+[观看完整英文演示（17 秒）](https://raw.githubusercontent.com/qinfu-tech/icadence/main/assets/videos/routines-en.mp4) · [观看中文操作片段](https://raw.githubusercontent.com/qinfu-tech/icadence/main/assets/videos/routines-zh-CN.mp4)
 
-<p align="center">
-  <img src="assets/screenshots/zh-CN/today.jpg" width="30%" alt="提醒时间线">
-  <img src="assets/screenshots/zh-CN/routine.jpg" width="30%" alt="计划编辑">
-  <img src="assets/screenshots/zh-CN/routines.jpg" width="30%" alt="节奏列表">
-</p>
+英文录屏展示深蹲计数、编辑计划和查看历史。部分画面为 Pro 或较早版本；点击截图可放大。
 
-<p align="center"><sub>提醒时间线 · 计划编辑 · 节奏列表</sub></p>
+### 01 · 安排休息
 
 <p align="center">
-  <img src="assets/screenshots/zh-CN/walking.jpg" width="30%" alt="走动验证">
-  <img src="assets/screenshots/zh-CN/history.jpg" width="30%" alt="休息记录">
-  <img src="assets/screenshots/zh-CN/alarm.jpg" width="30%" alt="系统闹钟">
+  <a href="assets/screenshots/zh-CN/today.jpg"><img src="assets/screenshots/zh-CN/today.jpg" width="24%" alt="提醒时间线"></a> &emsp;
+  <a href="assets/screenshots/zh-CN/routine.jpg"><img src="assets/screenshots/zh-CN/routine.jpg" width="24%" alt="新建计划"></a> &emsp;
+  <a href="assets/screenshots/zh-CN/routines.jpg"><img src="assets/screenshots/zh-CN/routines.jpg" width="24%" alt="管理计划"></a>
 </p>
 
-<p align="center"><sub>走动验证 · 休息记录 · 系统闹钟</sub></p>
+<p align="center"><sub>提醒时间线 · 新建计划 · 管理计划</sub></p>
 
-[观看中文操作演示（MP4）](https://raw.githubusercontent.com/qinfu-tech/icadence/main/assets/videos/routines-zh-CN.mp4)：查看计划列表、编辑工作时段，再进入历史记录。演示为较早版本的实录，按钮位置可能有所不同。
+### 02 · 动起来，再看记录
+
+<p align="center">
+  <a href="assets/screenshots/zh-CN/walking.jpg"><img src="assets/screenshots/zh-CN/walking.jpg" width="24%" alt="走动验证"></a> &emsp;
+  <a href="assets/screenshots/zh-CN/pose.jpg"><img src="assets/screenshots/zh-CN/pose.jpg" width="24%" alt="相机动作计数 · Pro"></a> &emsp;
+  <a href="assets/screenshots/zh-CN/history.jpg"><img src="assets/screenshots/zh-CN/history.jpg" width="24%" alt="休息历史 · Pro"></a>
+</p>
+
+<p align="center"><sub>走动验证 · 相机动作计数 · Pro · 休息历史 · Pro</sub></p>
+
+### 03 · 不打开 App 也能查看
+
+<p align="center">
+  <a href="assets/screenshots/zh-CN/alarm.jpg"><img src="assets/screenshots/zh-CN/alarm.jpg" width="24%" alt="系统闹钟 · Pro"></a> &emsp;
+  <a href="assets/screenshots/zh-CN/widgets.jpg"><img src="assets/screenshots/zh-CN/widgets.jpg" width="24%" alt="主屏小组件"></a> &emsp;
+  <a href="assets/screenshots/zh-CN/lock-screen-preview.jpg"><img src="assets/screenshots/zh-CN/lock-screen-preview.jpg" width="24%" alt="锁屏实况 · 预览"></a>
+</p>
+
+<p align="center"><sub>系统闹钟 · Pro · 主屏小组件 · 锁屏实况 · 预览</sub></p>
+
+锁屏图底部的实况卡片来自开发版本，未确认在当前 App Store 版本上线。正式版支持主屏与锁屏小组件。相机示范中的头像用于遮挡面部。
 
 ## iCadence 能做什么
 

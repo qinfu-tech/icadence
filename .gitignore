@@ -38,3 +38,9 @@ assets/screenshots/zh-CN/*
 assets/videos/*
 !assets/videos/routines-en.mp4
 !assets/videos/routines-zh-CN.mp4
+!assets/screenshots/en/pose.jpg
+!assets/screenshots/en/widgets.jpg
+!assets/screenshots/en/lock-screen-preview.jpg
+!assets/screenshots/zh-CN/pose.jpg
+!assets/screenshots/zh-CN/widgets.jpg
+!assets/screenshots/zh-CN/lock-screen-preview.jpg

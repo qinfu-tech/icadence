@@ -22,27 +22,43 @@ Long coding sessions, study blocks, and busy afternoons can turn into hours at a
 
 For interval routines, completing a break starts the next work interval from your completion time. Your desk break becomes part of the rhythm, with a record of what actually happened.
 
-## Screenshots and a quick demo
+## Screenshots and video
 
-These are direct iPhone screenshots. Some screens show Pro features, and the interface can vary by iOS version and settings.
+[Watch the full English demo (17 sec)](https://raw.githubusercontent.com/qinfu-tech/icadence/main/assets/videos/routines-en.mp4) · [Chinese walkthrough excerpt](https://raw.githubusercontent.com/qinfu-tech/icadence/main/assets/videos/routines-zh-CN.mp4)
 
-<p align="center">
-  <img src="assets/screenshots/en/today.jpg" width="30%" alt="Reminder timeline">
-  <img src="assets/screenshots/en/routine.jpg" width="30%" alt="Routine editor">
-  <img src="assets/screenshots/en/routines.jpg" width="30%" alt="Routine list">
-</p>
+See squat counting, routine editing, and break history. Some screens show Pro or an earlier interface. Select a screenshot to enlarge it.
 
-<p align="center"><sub>Reminder timeline · Routine editor · Routine list</sub></p>
+### 01 · Plan a break
 
 <p align="center">
-  <img src="assets/screenshots/en/walking.jpg" width="30%" alt="Walking verification">
-  <img src="assets/screenshots/en/history.jpg" width="30%" alt="Break history">
-  <img src="assets/screenshots/en/alarm.jpg" width="30%" alt="System alarm">
+  <a href="assets/screenshots/en/today.jpg"><img src="assets/screenshots/en/today.jpg" width="24%" alt="Upcoming breaks"></a> &emsp;
+  <a href="assets/screenshots/en/routine.jpg"><img src="assets/screenshots/en/routine.jpg" width="24%" alt="Set your timing"></a> &emsp;
+  <a href="assets/screenshots/en/routines.jpg"><img src="assets/screenshots/en/routines.jpg" width="24%" alt="Manage routines"></a>
 </p>
 
-<p align="center"><sub>Walking verification · Break history · System alarm</sub></p>
+<p align="center"><sub>Upcoming breaks · Set your timing · Manage routines</sub></p>
 
-[Watch the English walkthrough (MP4)](https://raw.githubusercontent.com/qinfu-tech/icadence/main/assets/videos/routines-en.mp4): browse routines, change a routine's settings, and check History. The recording is from an earlier build, so some controls may have moved.
+### 02 · Move and review
+
+<p align="center">
+  <a href="assets/screenshots/en/walking.jpg"><img src="assets/screenshots/en/walking.jpg" width="24%" alt="Walking verification"></a> &emsp;
+  <a href="assets/screenshots/en/pose.jpg"><img src="assets/screenshots/en/pose.jpg" width="24%" alt="Camera rep counting · Pro"></a> &emsp;
+  <a href="assets/screenshots/en/history.jpg"><img src="assets/screenshots/en/history.jpg" width="24%" alt="Break history · Pro"></a>
+</p>
+
+<p align="center"><sub>Walking verification · Camera rep counting · Pro · Break history · Pro</sub></p>
+
+### 03 · On your iPhone
+
+<p align="center">
+  <a href="assets/screenshots/en/alarm.jpg"><img src="assets/screenshots/en/alarm.jpg" width="24%" alt="System alarm · Pro"></a> &emsp;
+  <a href="assets/screenshots/en/widgets.jpg"><img src="assets/screenshots/en/widgets.jpg" width="24%" alt="Home Screen widgets"></a> &emsp;
+  <a href="assets/screenshots/en/lock-screen-preview.jpg"><img src="assets/screenshots/en/lock-screen-preview.jpg" width="24%" alt="Live Activity · Preview"></a>
+</p>
+
+<p align="center"><sub>System alarm · Pro · Home Screen widgets · Live Activity · Preview</sub></p>
+
+The Live Activity card at the bottom of the Lock Screen is a development preview; availability in the current App Store release has not been verified. The released app supports Home Screen and Lock Screen widgets. The avatar in the camera demo covers the face.
 
 ## What iCadence can do
 
